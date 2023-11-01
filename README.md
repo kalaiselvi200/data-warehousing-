@@ -143,4 +143,7 @@ Step 1: Install Python. ...
 Step 2: Install Jupyter Notebook. ...
 Step 3: Launch Jupyter Notebook
 #instalation
-Hithub repository link
+Hithub repository linkhttps://github.com/kalaiselvi200/data-warehousing-.git
+
+Run the python program code in jupyter anaconda
+Run the SQL program code in command prompt
